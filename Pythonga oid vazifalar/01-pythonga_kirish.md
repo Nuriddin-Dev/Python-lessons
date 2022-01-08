@@ -1,4 +1,4 @@
-#### 1-kun uchun vazifalar.
+### 1-kun uchun vazifalar.
 
 1. Ekranga `Salom pythonjon` so'zini chiqaring.
 
@@ -8,3 +8,23 @@
      print('Salom pythonjon')
      ```
     </details>
+   
+2. 4 ning 5 darajasini hisoblovchi dastur tuzing.<br>
+Eslatma: `**` bu belgi orqali darajani hisoblashimiz mumkin.
+   
+   <details><summary>Javob</summary>
+
+     ```python
+     print(4**5)
+     ```
+    </details>
+   
+3. `2 + 4 * 2` dasturini tuzing. Ekranga `Natija = 10` ko'rinishida chiqsin.
+
+    <details><summary>Javob</summary>
+
+     ```python
+     print('Natija = ', 2 + 4 * 2)
+     ```
+    </details>
+

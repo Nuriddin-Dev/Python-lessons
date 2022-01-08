@@ -1,0 +1,2 @@
+### O'zgaruvchilarga oid vazifalar.
+

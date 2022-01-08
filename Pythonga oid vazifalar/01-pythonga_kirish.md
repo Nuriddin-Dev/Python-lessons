@@ -1,4 +1,4 @@
-### 1-kun uchun vazifalar.
+### Kirish qismi uchun vazifalar.
 
 1. Ekranga `Salom pythonjon` so'zini chiqaring.
 

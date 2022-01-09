@@ -7,9 +7,9 @@ Funksiya nomini `salomlashuv` deb nomlang.
 
      ```python
      def salomlashuv():
-    print("Assalomu alaykum")
-
-    salomlashuv()
+         print("Assalomu alaykum")
+     
+     salomlashuv()
      ```
     </details>
    

@@ -1,4 +1,4 @@
-### Kirish qismi uchun vazifalar.
+### Kirish qismi uchun topshiriqlar.
 
 1. Ekranga `Salom pythonjon` so'zini chiqaring.
 
@@ -25,6 +25,15 @@ Eslatma: `**` bu belgi orqali darajani hisoblashimiz mumkin.
 
      ```python
      print('Natija = ', 2 + 4 * 2)
+     ```
+    </details>
+
+4. 33 ni 4 ga bo'lganda qancha qoldiq qoladi?
+
+    <details><summary>Javob</summary>
+
+     ```python
+     print(33 % 4)
      ```
     </details>
 

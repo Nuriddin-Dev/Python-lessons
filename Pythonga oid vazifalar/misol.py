@@ -1,11 +1,5 @@
-i = 1
-bush_list = []
-while i<6:
-    son = int(input(f"{i} sonni kiriting: "))
-    bush_list.append(son)
-    i = i + 1
+nums = [14, -8, 15, 500, 44, -71, 10.5, -62, 93]
 
-bush_list.sort()
-
-print('Eng katta son ',bush_list[-1])
+nums.remove(10.5)
+print(nums)
 

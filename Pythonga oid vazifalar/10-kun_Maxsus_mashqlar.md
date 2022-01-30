@@ -18,3 +18,20 @@
      print('Eng katta son ',bush_list[-1])
      ```
     </details>
+   
+2. Foydalanuvchidan son kiritishni talab qilsin. Kiritilgan son tub yoki tub emasligini aniqlovchi dastur tuzing.
+
+   <details><summary>Javob</summary>
+     
+     ```python
+     num = int(input("Son kiriting: "))  
+     
+     for i in range(2,num):
+         if num % i == 0:
+             print("Tub son emas")
+             break
+      
+     else:
+         print("Tub son")
+     ```
+    </details>
